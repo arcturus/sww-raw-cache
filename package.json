@@ -1,6 +1,6 @@
 {
   "name": "sww-raw-cache",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Middleware used in ServiceWorkerWare that allows developers to control the cache content via http verbs",
   "main": "dist/sww-raw-cache.js",
   "author": "The Gaia Team",
