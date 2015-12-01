@@ -1,5 +1,5 @@
 # RawCache
-A middleware layer for [ServiceWorkerWare](https://github.com/gaia-components/serviceworkerware/) that will allow you to modify the content of a cache via HTTP verbs.
+A middleware layer for [ServiceWorkerWare](https://github.com/fxos-components/serviceworkerware/) that will allow you to modify the content of a cache via HTTP verbs.
 
 ## Usage
 In your ServiceWorker code:

@@ -16,6 +16,6 @@
     "tests"
   ],
   "devDependencies": {
-    "serviceworkerware": "git@github.com:gaia-components/serviceworkerware.git"
+    "serviceworkerware": "git@github.com:fxos-components/serviceworkerware.git"
   }
 }
